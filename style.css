@@ -1,0 +1,19 @@
+body {
+    margin-top: 20px;
+}
+.main {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+    width: 400px ;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #ddebf8;
+}
+.avatar {
+    width: 160px;
+}
+.border-blue {
+    border: 1px dotted blue;
+    border-bottom: #d8cefe solid 7px;
+}
